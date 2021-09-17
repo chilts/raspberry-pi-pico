@@ -53,4 +53,15 @@ Write your program into the main area in Thonny. Make sure you press
 
 Then click the `Run Current Script` button, or press `F5`.
 
+To try this out, open a program from our examples such as
+`src/001-blink/double-blink.py`, make sure the Pico is stopped (`C-F2`) and
+then upload (`F5`). You Pico should now be double-blinking.
+
+## License ##
+
+Apache 2.0.
+
+Why? Because it is a [Coherent Open Source License](https://licenseuse.org/)
+license.
+
 (Ends)
