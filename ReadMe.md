@@ -57,6 +57,12 @@ To try this out, open a program from our examples such as
 `src/001-blink/double-blink.py`, make sure the Pico is stopped (`C-F2`) and
 then upload (`F5`). You Pico should now be double-blinking.
 
+## References ##
+
+## Raspberry Pi Pico Pinout ##
+
+[![raspberry-pi-pico-pinout.png](https://i.postimg.cc/jdsgFxbX/raspberry-pi-pico-pinout.png)](https://postimg.cc/Th4JyXhL)
+
 ## License ##
 
 Apache 2.0.

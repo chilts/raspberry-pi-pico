@@ -2,10 +2,6 @@
 
 Just a small alarm clock which is nice and easy to set up.
 
-## Raspberry Pi Pico Pinout ##
-
-[![raspberry-pi-pico-pinout.png](https://i.postimg.cc/jdsgFxbX/raspberry-pi-pico-pinout.png)](https://postimg.cc/Th4JyXhL)
-
 ## Setup ##
 
 Connection Pins:
