@@ -59,6 +59,10 @@ then upload (`F5`). You Pico should now be double-blinking.
 
 ## References ##
 
+## Pico PCB Photo ##
+
+![pico-pcb-photo](https://user-images.githubusercontent.com/3048/133996022-31b8c0d9-21e7-4ff9-87f8-aa4dc2f4f0c1.png)
+
 ## Raspberry Pi Pico Pinout ##
 
 ![raspberry-pi-pico-pinout](https://user-images.githubusercontent.com/3048/133995716-685a9a72-7975-47ad-bfc0-241f8cb1845a.png)
